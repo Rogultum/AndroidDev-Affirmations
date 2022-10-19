@@ -7,5 +7,4 @@
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/48841840/196479539-34522d8d-4c78-42ff-a4d6-d0555eda3f47.jpg" alt="fsa" height="400"/>
-<img src="https://user-images.githubusercontent.com/48841840/196479546-f21f598f-018e-438b-8323-97027c3df115.jpg" alt="fsa" height="400"/>
+<img src="https://user-images.githubusercontent.com/48841840/196479539-34522d8d-4c78-42ff-a4d6-d0555eda3f47.jpg" alt="fsa" height="400"/> <img src="https://user-images.githubusercontent.com/48841840/196479546-f21f598f-018e-438b-8323-97027c3df115.jpg" alt="fsa" height="400"/>
